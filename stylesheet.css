@@ -1,0 +1,46 @@
+#header {
+	display: inline-block;
+	position: absolute;
+	right: 0px;
+}
+
+a {
+	padding: 10px;
+
+}
+
+.img-circle {
+	display: inline-block;
+	-webkit-border-radius: 50%;
+	height: 50px;
+	width: 50px;
+	padding-top: 0px;
+}
+
+
+img {
+	width: 269px;
+	height: 95px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 112px;
+}
+
+input[type="text"]{
+	width: 20%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+
+.buttons {
+	width: 300px;
+	margin: 5px auto;
+	display: block;
+	padding: 5px;
+}
+
+
