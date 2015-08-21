@@ -18,9 +18,7 @@ a {
 
 a:hover {
 	text-decoration: underline;
-
 }
-
 
 .img-circle {
 	display: inline-block;
@@ -31,8 +29,6 @@ a:hover {
 	padding-right: 5px;
 	padding-bottom: 0px;
 }
-
-
 
 .img-link {
 	display: inline-block;	
@@ -62,7 +58,6 @@ input[type="text"]{
 	margin-right: auto;
 
 }
-
 
 .buttons {
 	width: 300px;
