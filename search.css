@@ -96,5 +96,39 @@ input[type="text"] {
 	margin-left: auto;
 	margin-right: auto;
 	padding-top: 20px;	
+	padding-left: 20px;
+	padding-right: 20px;
+	text-align: center;
+	position: relative;
+	left: 400px;
+	top: 20px;
+
+}
+
+#searchresults {
+	width: 50%;
+	background-color: #FFFFFF;
+	height: 800px;
+}
+
+.searchlink {
+
+	font-family: Arial;
+	color: Blue;
+	font-size: 14px;
+	position: relative;
+	top: 30px;
+	left: 100px;
+
+}
+
+p {
+	font-family: Arial;
+	font-size: 13px;
+	position: relative;
+	top: 27px;
+	left: 109px;
+
+
 
 }
