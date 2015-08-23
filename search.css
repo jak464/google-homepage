@@ -1,17 +1,42 @@
+div {
+	background-color: #eaeaea;
+	height: 60px;
+	width: 100%;
+	display: in-line-block;
+	position: relative;
+}
+
 #header {
         display: inline-block;
-        position: absolute;
-        right: 0px;
-        color: gray;
         font-family: Arial;
         font-size: 14px;
-	background-color: #eaeaea;
-	width: 100%;}
+	text-align: right;
+	color: gray;
+	text-decoration: none;
+	float: right;
+}
 
+a {
+	padding-left:10px;
+	font-family: Arial;
+	color: gray;
+	font-size: 14px;
+	text-decoration: none;
+}
 
 a:hover {
         text-decoration: underline;
 }
+
+
+#logo {
+	height: 58px;
+	width: 120px;
+	text-align: left;
+	float: left;
+	padding-right: 20px;
+}
+
 
 .img-circle {
         display: inline-block;
@@ -33,3 +58,43 @@ a:hover {
         padding-bottom: 0px;
 }
 
+input[type="text"] {
+	width:520px;
+	height: 23px;
+	display: in-line block;
+	text-align: left;
+	float: left;
+	position: absolute;
+	top: 16px;
+	left: 128px;
+
+}
+
+.searchbtn {
+	background-color: blue;
+	color: #FFFFFF;
+	width: 55px;
+	position: absolute;
+	top: 14px;
+	left: 651px;
+	height: 31px;
+
+
+}
+
+#secondheader {
+	width: 100%;
+	background-color: #FFFFFF;
+	height: 50px;
+	border-bottom: 1px solid #eaeaea;
+
+
+}
+
+.navlink {
+	display: in-line block;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 20px;	
+
+}
