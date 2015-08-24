@@ -100,13 +100,13 @@ input[type="text"] {
 	padding-right: 20px;
 	text-align: center;
 	position: relative;
-	left: 400px;
+	left: 114px;
 	top: 20px;
 
 }
 
 #searchresults {
-	width: 50%;
+	width: 30%;
 	background-color: #FFFFFF;
 	height: 800px;
 }
@@ -115,20 +115,26 @@ input[type="text"] {
 
 	font-family: Arial;
 	color: Blue;
-	font-size: 14px;
+	font-size: 16px;
 	position: relative;
 	top: 30px;
-	left: 100px;
+	left: 122px;
 
 }
 
 p {
 	font-family: Arial;
-	font-size: 13px;
+	font-size: 14px;
 	position: relative;
 	top: 27px;
-	left: 109px;
+	left: 132px;
+}
 
+.incontext {
 
+	color: #1975FF;
+	font-weight: bold;
+	text-decoration: underline;
 
 }
+
